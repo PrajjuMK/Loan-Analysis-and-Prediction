@@ -1,1 +1,1 @@
-# Loan-Analysis-and-Sanction
+# Loan-Analysis-and-Prediction 
