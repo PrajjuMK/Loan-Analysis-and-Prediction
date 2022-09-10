@@ -3,7 +3,7 @@
 
 ~Programming language -> Python, Machine Learning
 
-`How & What -> 
+`How & What` -> 
 ~First analysis the dataset.
 
 ~Look for the anomalies, clear them/ fix it.
