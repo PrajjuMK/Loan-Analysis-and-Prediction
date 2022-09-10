@@ -1,7 +1,7 @@
 # Loan-Analysis-and-Prediction 
-~Install -> Jupyter Notebook.
+`Install` -> Jupyter Notebook.
 
-~Programming language -> Python, Machine Learning
+`Programming language` -> Python, Machine Learning
 
 `How & What` -> 
 ~First analysis the dataset.
