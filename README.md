@@ -6,7 +6,7 @@
 `How & What` -> 
 ~First analysis the dataset.
 
-~Look for the anomalies, clear them/ fix it.
+      ~Look for the anomalies, clear them/ fix it.
 
 ~Do the EDA.
 
